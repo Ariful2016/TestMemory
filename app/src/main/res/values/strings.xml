@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test Memory</string>
+    <string name="select_game_mode">Select game mode</string>
+    <string name="refresh">Refresh</string>
+    <string name="create_custom_game">Create custom game</string>
+    <string name="download_custom_game">Download custom game</string>
+    <string name="game_name_example_first_test">Game name (example: \'first_test\')</string>
+</resources>

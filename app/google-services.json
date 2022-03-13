@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603229547696",
+    "project_id": "final-d13bd",
+    "storage_bucket": "final-d13bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603229547696:android:984376d0674ab7486d9f75",
+        "android_client_info": {
+          "package_name": "com.arifcit.testmemory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603229547696-vfessfa5qof20svpvtsoimlpq5tqeua2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe0QAjglxtGhoniUzFoBUxrgUGcMSjg7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603229547696-vfessfa5qof20svpvtsoimlpq5tqeua2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
